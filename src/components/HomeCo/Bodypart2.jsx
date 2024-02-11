@@ -29,7 +29,7 @@ const Bodypart2 = () => {
       <div>
         <div className="flex-col items-center space-y-4 ">
           <div className="text-4xl pb-2 font-medium gap-8">
-          The power of DXC people and  <br/> technology
+          The power of WRKMEN people and  <br/> technology
 
           </div>
           <div className="text-2xl pb-2">
