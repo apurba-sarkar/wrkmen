@@ -1,0 +1,29 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .button-primary {
+    @apply bg-buttonColor px-4 py-2 mt-3 font-medium text-2xl pb-3 text-white ;
+    transition: transform 0.3s ease;
+  }
+  .button-primary:hover {
+    @apply bg-white text-buttonColor  border-buttonColor border-2;
+    transform: translateX(10px);
+  }
+
+  .button-secondary {
+    @apply bg-primaryColor bg-none border border-white  font-medium px-3 py-2;
+    transition: transform 0.3s ease;
+  }
+  .button-secondary:hover {
+    @apply bg-white border border-none text-primaryColor;
+    /* transform: translateX(10px); */
+  }
+}

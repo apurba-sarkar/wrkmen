@@ -1,0 +1,7 @@
+body{
+      overflow-x: hidden;
+      background-color: #e2e8f0;
+}
+html {
+    zoom: 100%; /* Set the zoom level to 100% (default) */
+  }
