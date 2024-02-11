@@ -58,7 +58,7 @@ export default function SimpleSlider() {
           className="text-black  text-lg place-items-stretch h-40"
         >
           <div className="text-4xl pb-2 font-medium">
-            Pintu Barman appointed WRKMEN <br /> President and CEO
+            Tim Cook appointed WRKMEN <br /> President and CEO
           </div>
           <div className="text-2xl ">
             “I am incredibly excited to continue working with our global WRKMEN{" "}

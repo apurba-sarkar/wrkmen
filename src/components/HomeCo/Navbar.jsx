@@ -11,7 +11,7 @@ const Navbar = () => {
           </NavLink>
         </div>
         <div>
-          <NavLink to="/" className="flex items-end gap-1">
+          <NavLink to="/Offerings" className="flex items-end gap-1">
             {" "}
             <span>Offerings </span>
             <span>

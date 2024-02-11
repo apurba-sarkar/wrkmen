@@ -4,6 +4,7 @@ import Connected from "../components/HomeCo/Connected";
 import Stats from "../components/HomeCo/Stats";
 import Widers from "../components/HomeCo/Widers";
 import Navbar from "../components/HomeCo/Navbar";
+import Perspective from "../components/HomeCo/Perspective";
 
 export const Homepage = () => {
   return (
@@ -14,6 +15,7 @@ export const Homepage = () => {
       <Bodypart2/>
       <Stats/>
       <Connected/>
+      <Perspective/>
     </div>
   );
 };
