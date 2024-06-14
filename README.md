@@ -7,7 +7,7 @@ Our project aims to develope a company website called WRKMEN, where innovation m
 
 Modern Stack Integration: We harness the power of React and Tailwind CSS to build responsive and visually stunning web applications. Our modern stack ensures scalability, performance, and flexibility, catering to the evolving needs of businesses.
 
-User-Centric Design: User experience is paramount in today's digital landscape. Our team of designers and developers collaborates closely to create intuitive interfaces that enhance usability and engagement. From sleek layouts to seamless navigation, we prioritize user satisfaction at every step.
+User-Centric Design: User experience is paramount in today's digital landscape. Our team of designers and developers collaborates closely to create intuitive interfaces that enhance usability and engagement. From sleek layouts to seamless navigation, we prioritize user satisfaction at every steps.
 
 developer by  $${\color{blue}Apurba Sarkar}$$ 
 
